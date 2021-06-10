@@ -32,7 +32,7 @@
       <collision>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://force_sensor/meshes/collision/grabber.stl"/>
+          <mesh filename="package://force_sensor/meshes/collision/finger_tool.stl"/>
         </geometry>
         <material name="White"/>
 
@@ -81,7 +81,7 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://force_sensor/meshes/visual/grabber.stl"/>
+          <mesh filename="package://force_sensor/meshes/visual/finger_tool.stl"/>
         </geometry>
         <material name="White"/>
       </visual>
