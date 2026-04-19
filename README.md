@@ -30,7 +30,7 @@ Dependencies
 
 ```sh
 cd /source/directory
-git clone https://github.com/epfl-lasa/kuka_fri.git
+git clone https://github.com/RLoad/kuka_fri.git
 cd kuka_fri
 ./waf configure
 ./waf
